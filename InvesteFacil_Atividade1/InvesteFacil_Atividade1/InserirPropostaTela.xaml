@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="InvesteFacil_Atividade1.InserirPropostaTela">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <Label Text="Invista facilmente seu dinheiro!"
+                   HorizontalOptions="Center"
+                   Margin="30"/>
+
+            <Image Source="imagemInvestimento.jpg"
+                   Aspect="AspectFit"
+                   HeightRequest="250"
+                   WidthRequest="450"/>
+
+            <Picker x:Name="pickerTipoInvestimento"
+                    Title="Selecione seu tipo de investimento:"
+                    TitleColor="Purple"
+                    HorizontalOptions="Center"
+                    SelectedIndexChanged="pickerMeses_SelectedIndexChanged">
+                    <!--<Picker.ItemsSource>
+                        <x:Array Type="{x:Type x:String}">
+                            <x:String>POUPANÇA</x:String>
+                            <x:String>TESOURO DIRETO SELIC</x:String>
+                            <x:String>TESOURO DIRETO IPCA</x:String>                            
+                        </x:Array>
+                    </Picker.ItemsSource>-->
+            </Picker>
+
+            <Entry x:Name="entryValor" Placeholder="Valor a ser investido:"  Margin="15"/>
+
+            <Label x:Name="rotatingLabel"
+               Text="Escolha por quanto tempo quer investir esse valor:"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+            <Slider x:Name="sliderMeses" 
+                    Maximum="240"
+                    Minimum="06"
+                    ValueChanged="OnSliderMesesValueChanged" />
+
+            <Label x:Name="sliderValue"
+               Text="(uninitialized)"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand" />
+
+            <Button Text="Calcular montante final"
+                    Clicked="Button_Clicked"/>
+
+            <Label x:Name="labelMontante" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

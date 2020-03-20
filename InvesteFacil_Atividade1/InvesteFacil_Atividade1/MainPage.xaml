@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="InvesteFacil_Atividade1.MainPage">
+
+    <StackLayout Padding="20">
+        <!-- Place new controls here -->
+        <Label Text="Bem vindo ao Investe_Facil!" 
+               HorizontalOptions="Center" />
+
+        <Label Text="Sua nova maneira de investir já sabendo quanto irá receber ao fim do investimento!"
+               HorizontalOptions="Center" />
+
+        <Label Text="LOGIN"
+               HorizontalOptions="Center"
+               FontSize="Large"
+               Margin="100"/>
+
+        <Entry 
+            x:Name="entryUser"
+            Placeholder="Digite o nome do usuário:"
+            Margin="10"/>
+
+        <Entry
+            x:Name="entryPassword"
+            Placeholder="Digite sua senha:"
+            Margin="10"/>
+
+        <Button
+            Text="SigIn"
+            Clicked="OnLoginButtonClicked"/>
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\bin\Debug\netstandard2.0\InvesteFacil_Atividade1.deps.json
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\bin\Debug\netstandard2.0\InvesteFacil_Atividade1.dll
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\bin\Debug\netstandard2.0\ref\InvesteFacil_Atividade1.dll
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\bin\Debug\netstandard2.0\InvesteFacil_Atividade1.pdb
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\InvesteFacil_Atividade1.csprojAssemblyReference.cache
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\InvesteFacil_Atividade1.AssemblyInfoInputs.cache
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\InvesteFacil_Atividade1.AssemblyInfo.cs
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\InvesteFacil_Atividade1.dll
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\ref\InvesteFacil_Atividade1.dll
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\InvesteFacil_Atividade1.pdb
+C:\Users\SAGATECH-DEV14\source\repos\InvesteFacil_Atividade1\InvesteFacil_Atividade1\InvesteFacil_Atividade1\obj\Debug\netstandard2.0\InserirPropostaTela.xaml.g.cs
